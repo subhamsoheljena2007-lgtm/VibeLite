@@ -23,3 +23,20 @@
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login - VibeLite</title>
+</head>
+<body>
+    <div style="text-align: center; margin-top: 50px;">
+        <h1>VibeLite Login</h1>
+        <form>
+            <input type="text" placeholder="Username" required><br><br>
+            <input type="password" placeholder="Password" required><br><br>
+            <button type="submit">Login</button>
+        </form>
+    </div>
+</body>
+</html>
+
