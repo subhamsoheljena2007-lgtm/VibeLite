@@ -8,3 +8,18 @@
     <p>Ye mera pehla lightweight app hai.</p>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>VibeLite</title>
+</head>
+<body>
+    <header>
+        <h1>VibeLite</h1>
+    </header>
+    <main>
+        <p>Yahan aapke social posts dikhenge.</p>
+    </main>
+</body>
+</html>
+
